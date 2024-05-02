@@ -257,7 +257,7 @@ curl -H "Authorization: Bearer Токен" https://qrcai.tndev.ru/api/v1/product
 
 `groupName`- код группы атрибутов sku
 
-`attribute`- код атрибута sku с данными. Легенду см. [Атрибуты и группы атрибутов карточек ЕКН и систем](https://www.notion.so/ed362e3da9d44c8799039984d8d72563?pvs=21) 
+`attribute`- код атрибута sku с данными. Легенду см. [Атрибуты и группы атрибутов карточек ЕКН и систем](https://docs.google.com/spreadsheets/d/1KGepTSnfsn63dR7YDWIkwEm2Wg_zrquTOSo1jYOZKqA/edit?usp=sharing) 
 
 `attribute_type`- тип атрибута (текст, число, ссылка на справочник и прочие)
 
